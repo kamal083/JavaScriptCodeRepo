@@ -1,0 +1,6 @@
+java generics
+1)implementation of compareTo 
+2) on basis of data type take decidions
+3) implement your own intArray class
+4) hashMap vs hashSet?
+5) array vs vector
